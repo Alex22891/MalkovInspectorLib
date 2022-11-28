@@ -1,0 +1,17 @@
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.exe
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.deps.json
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.runtimeconfig.json
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.runtimeconfig.dev.json
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\MalkovInspectorLib.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.AssemblyInfo.cs
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.csproj.CopyComplete
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\MalkovInspectorLib\obj\Debug\netcoreapp3.1\MalkovInspectorLib.genruntimeconfig.cache

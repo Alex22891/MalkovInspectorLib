@@ -1,0 +1,10 @@
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.deps.json
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfo.cs
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\MalkovInspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.AssemblyReference.cache
